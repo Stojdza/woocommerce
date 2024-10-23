@@ -173,10 +173,7 @@ WooCommerce comes with some sample data you can use to see how products look; im
 
 **WooCommerce**
 
-* Fix - Added strict check for PR and release number extracted from Issue body
-* Fix - Add track for skip guided setup click and updated the new design for skip guided setup
-* Fix - Set server-side render of Mini-Cart icon to correctly show/hide the count based on block setting
-* Dev - Point release request flow for development use.
+* Update - Dummy PR #1 [#10](https://github.com/woocommerce/woocommerce/pull/10)
 
 
 [See changelog for all versions](https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/changelog.txt).
