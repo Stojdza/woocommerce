@@ -16,7 +16,7 @@ const test = base.extend( {
 } );
 
 test.describe(
-	'DUMMY PR Store owner can view Assembler Hub for store customization',
+	'DUMMY PR 3 Store owner can view Assembler Hub for store customization',
 	{ tag: '@gutenberg' },
 	() => {
 		test.use( { storageState: process.env.ADMINSTATE } );
